@@ -1,2 +1,2 @@
 # git-playground
-git-playground
+Play with Git
