@@ -2,7 +2,10 @@
 git-playground
 
 ## First Bug
- - this is first
+ - this is #1
 
 ## Second Bug
- - this is second
+ - this is #2
+
+ ## Third Bug
+ - this is #3
